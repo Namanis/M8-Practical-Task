@@ -31,7 +31,7 @@ VALUES (1, 'Bootcamp', 5),
 INSERT INTO students (id, name, email, age, course_id)
 VALUES (1, 'Mykolas Skrodenis', 'mykolas@gmail.com', 27, 1),
        (2, 'John Lee', 'jones@hotmail.com', 33, 2),
-       (3, 'Bob Marley', 'bobby123@mail.com', 25, 2),
+       (3, 'Bob Marley', 'bobby123@mail.com', 15, 2),
        (4, 'Niel Armstrong', 'armstrong@yahoo.com', 60, 3),
        (5, 'Cleo Patra', 'egypt101@outlook.com', 105, 1);
 
